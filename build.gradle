@@ -1,0 +1,14 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+}
+
+dependencies {
+
+}
+
+application {
+	mainClass = 'main.Application'
+}
